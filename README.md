@@ -11,7 +11,7 @@ Com a finalidade de melhorar o atendimento e priorizar os casos mais urgentes, a
 * Linguagem: Python
 
 ## Como utilizar esse codigo:
-1. Clone the repository:
+1. Clone o repositorio:
 
 ```bash
 git clone https://github.com/rubydevz/Lista-de-pacientes-do-hospital/
